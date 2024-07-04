@@ -1,12 +1,12 @@
 # M604A-Public-Toilet-Accessiblity-App
 
 Libraries used in this Web Application
-
+```
 import psycopg2
 import pandas as pd
 import plotly.express as px
 from flask import Flask, render_template, request, make_response
-
+```
 Technology and Application Used
 IDE Used: Pycharm
 Web Framework: Bootstrap
